@@ -137,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "导论.md",
+                "file": "操作系统/导论.md",
                 "mode": "source",
                 "source": false
               },
@@ -308,9 +308,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf0a87e7ba22abd7",
+  "active": "42cdb14fa6384ab5",
   "lastOpenFiles": [
-    "导论.md",
+    "操作系统/导论.md",
     "操作系统",
     "README.md",
     "Note",
